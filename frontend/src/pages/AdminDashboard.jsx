@@ -91,7 +91,7 @@ export default function AdminDashboard() {
       Object.keys(projectForm).forEach(key => formData.append(key, projectForm[key]));
       if (projectImage) formData.append('image', projectImage);
 
-      const res = await axios.post(`${API_BASE_URL}/projects`, formData, {
+      const res = await axios.post(`${import.meta.env.VITE_API_URL}/api/auth/login`)/projects`, formData, {
         headers: { ...getHeaders(), 'Content-Type': 'multipart/form-data' }
       });
       setProjects([res.data, ...projects]);
