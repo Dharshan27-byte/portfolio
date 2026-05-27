@@ -1,0 +1,81 @@
+[
+  {
+    "_id": "p1",
+    "title": "Care360 AI Health Assistant",
+    "description": "An AI-powered healthcare assistant designed to analyze patient symptoms, provide medical predictions, and manage patient care workflows efficiently.",
+    "tags": [
+      "React",
+      "Express",
+      "MongoDB",
+      "Gemini API",
+      "Python"
+    ],
+    "githubLink": "https://github.com/yogadharshan/care360",
+    "liveLink": "https://care360-ai.vercel.app",
+    "image": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&w=600&q=80",
+    "category": "Artificial Intelligence"
+  },
+  {
+    "_id": "p2",
+    "title": "AI Chatbot Assistant",
+    "description": "A dynamic chatbot application that uses natural language processing to answer user queries, guide navigation, and offer interactive assistance.",
+    "tags": [
+      "React",
+      "Tailwind CSS",
+      "Node.js",
+      "Express",
+      "NLP"
+    ],
+    "githubLink": "https://github.com/yogadharshan/ai-chatbot",
+    "liveLink": "https://ai-chatbot-demo.vercel.app",
+    "image": "https://images.unsplash.com/photo-1531747118685-ca8fa6e08806?auto=format&fit=crop&w=600&q=80",
+    "category": "Artificial Intelligence"
+  },
+  {
+    "_id": "p3",
+    "title": "Student Grade Prediction System",
+    "description": "Machine learning model and web interface that predicts student academic performance based on historical and demographic attributes.",
+    "tags": [
+      "Python",
+      "Flask",
+      "Scikit-Learn",
+      "HTML/CSS",
+      "Pandas"
+    ],
+    "githubLink": "https://github.com/yogadharshan/grade-predictor",
+    "liveLink": "#",
+    "image": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=600&q=80",
+    "category": "Machine Learning"
+  },
+  {
+    "_id": "p4",
+    "title": "Task Management Website",
+    "description": "Collaborative project management dashboard supporting kanban boards, task assignments, deadline tracking, and visual analytics.",
+    "tags": [
+      "React",
+      "Framer Motion",
+      "Express",
+      "MongoDB",
+      "Tailwind"
+    ],
+    "githubLink": "https://github.com/yogadharshan/task-manager",
+    "liveLink": "https://taskflow-pro.vercel.app",
+    "image": "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?auto=format&fit=crop&w=600&q=80",
+    "category": "Full Stack Development"
+  },
+  {
+    "_id": "p5",
+    "title": "Chess Game",
+    "description": "A fully responsive web-based chess game featuring local multiplayer gameplay, move highlights, and clean modern aesthetics.",
+    "tags": [
+      "React",
+      "CSS",
+      "Algorithms",
+      "Game Logic"
+    ],
+    "githubLink": "https://github.com/yogadharshan/chess-game",
+    "liveLink": "https://chess-yoga.vercel.app",
+    "image": "https://images.unsplash.com/photo-1529699211952-734e80c4d42b?auto=format&fit=crop&w=600&q=80",
+    "category": "Game Development"
+  }
+]

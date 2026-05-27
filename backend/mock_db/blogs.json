@@ -1,0 +1,28 @@
+[
+  {
+    "_id": "b1",
+    "title": "The Rise of Agentic AI: Beyond Simple Prompting",
+    "content": "Agentic AI represents a massive shift in artificial intelligence. Instead of just replying to static inputs, AI agents are now capable of planning, utilizing tools, correcting their own errors, and executing multi-step workflows autonomously. In this post, we discuss the core architecture of an AI agent, including planning loops, memory systems, and tool interfaces, and how they are transforming development workflows.",
+    "tags": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "Agentic Workflows"
+    ],
+    "date": "2026-05-15",
+    "readTime": "5 min read",
+    "author": "Yoga Dharshan"
+  },
+  {
+    "_id": "b2",
+    "title": "Demystifying RAG: Retrieval-Augmented Generation Explained",
+    "content": "Retrieval-Augmented Generation (RAG) is the gold standard for reducing hallucinations in large language models. By connecting LLMs to external data sources, we enable them to fetch up-to-date and domain-specific knowledge before generating responses. We will explore how vector databases like Pinecone and ChromaDB work, and build a simple RAG pipeline from scratch using Python.",
+    "tags": [
+      "Machine Learning",
+      "RAG",
+      "Vector Search"
+    ],
+    "date": "2026-04-28",
+    "readTime": "7 min read",
+    "author": "Yoga Dharshan"
+  }
+]
